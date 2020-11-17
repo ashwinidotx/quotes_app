@@ -1,12 +1,11 @@
-# quotes_app
+# Quotes Quotes Quotes
 
-A new Flutter project.
+A flutter App that displays random Quotes and has a feature to cycle through a number of quotes.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot](screenshot/QuotesApp.png?raw=true=250x "Calculator")
+
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
